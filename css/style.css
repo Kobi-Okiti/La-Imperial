@@ -8,6 +8,9 @@ a{
 .card-footer{
     background-color: white;
 }
+.card-body{
+    height: 9rem;
+}
 .top-deals{
     background: linear-gradient(180deg, #344081 13.44%, rgba(255, 255, 255, 0) 100%);
 }
