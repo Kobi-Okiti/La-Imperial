@@ -11,3 +11,9 @@ a{
 .top-deals{
     background: linear-gradient(180deg, #344081 13.44%, rgba(255, 255, 255, 0) 100%);
 }
+.display-6{
+    color: #344081;
+}
+.card-img-top{
+    height: 200px;
+}
