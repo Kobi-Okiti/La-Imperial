@@ -34,9 +34,6 @@ a{
 .card-img-top{
     height: 200px;
 }
-.container{
-    display: flex;
-}
 .navbar{
     display: flex;
     align-items: center;
@@ -55,9 +52,25 @@ nav ul{
 nav ul li{
     display: inline-block;
     margin-right: 20px;
-    
 }
+.btn{
+    /* margin-left: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: medium;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    border-radius: 30px;
+    background: #344081;
+    background-color: red;
+    width: 200px;
+    height: 100px; */
 
+    background-color: #606aa0;
+    padding: 1rem 1.5rem;
+    color: #fff;
+}
+/*------footer------*/
 .footer{
     background-color:rgba(52, 64, 129, 1) ; color: #fff;
 }
