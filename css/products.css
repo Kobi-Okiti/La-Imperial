@@ -1,0 +1,63 @@
+.product-nav{
+    background-color: rgba(52, 64, 129, 1);
+}
+.hover:hover{
+    background-color: white;
+    color: rgba(52, 64, 129, 1);
+}
+/* .active{
+    background-color: white;
+    color: rgba(52, 64, 129, 1);
+} */
+.card{
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.button{
+    color: white;
+}
+.card-footer{
+    background-color: white;
+}
+.card-body{
+    height: 9rem;
+}
+.top-deals{
+    background: linear-gradient(180deg, #344081 13.44%, rgba(255, 255, 255, 0) 100%);
+}
+.display-6{
+    color: #344081;
+}
+.card-img-top{
+    height: 200px;
+}
+.container{
+    display: flex;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    padding-bottom: 0%;
+}
+nav{
+    flex: 1;
+    text-align: right;
+    float: center;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+
+.footer{
+    background-color:rgba(52, 64, 129, 1) ; color: #fff;
+}
